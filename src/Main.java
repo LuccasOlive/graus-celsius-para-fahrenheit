@@ -13,6 +13,7 @@ public class Main {
         System.out.println("A temperatura em Fahrenheit inteira é: " + tempEmFahrenheirtInteira);
 
         System.out.println("Só quero fazer um testes rapido, tenho que ver se vai ser atualizado no Git. ");
+        System.out.println("fazendo testes. ");
 
     }
 }
